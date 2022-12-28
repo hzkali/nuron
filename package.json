@@ -7,6 +7,11 @@
   },
   "dependencies": {
     "@rainbow-me/rainbowkit": "^0.8.0",
+    "@solana/wallet-adapter-base": "^0.9.20",
+    "@solana/wallet-adapter-phantom": "^0.9.19",
+    "@solana/wallet-adapter-react": "^0.15.27",
+    "@solana/wallet-adapter-react-ui": "^0.9.26",
+    "@solana/web3.js": "^1.72.0",
     "aos": "^2.3.4",
     "axios": "^1.2.0",
     "ethers": "^5.7.2",

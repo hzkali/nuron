@@ -6,6 +6,7 @@ import NFTItems from '../components/NFTCard/NFTItems'
 import NFTStep from '../components/NFTStep/NFTStep'
 import Slider from '../components/Slider/Slider'
 
+
 const Home: NextPage = () => {
   return (
     <div>

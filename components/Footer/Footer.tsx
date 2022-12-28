@@ -11,15 +11,15 @@ function Footer() {
   const socialMediaList: socialMediaListStruct[] = [
     {
       icon: FaLinkedin,
-      url: "https://in.linkedin.com/in/nayanrdeveloper",
+      url: "https://in.linkedin.com/in/softwaredeveloper258249",
     },
     {
       icon: FaTwitter,
-      url: "https://twitter.com/nayan_radadiya6",
+      url: "https://twitter.com/EnesYellice",
     },
     {
       icon: FaGithub,
-      url: "https://github.com/nayanrdeveloper",
+      url: "https://github.com/hzkali",
     },
   ];
   return (
